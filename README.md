@@ -95,6 +95,7 @@ That's it. Your work could help someone get in next year.
 <!-- Add contributors below -->
 - [@halx](https://github.com/heilcheng)
 - [Abir Chakraborty](https://github.com/abirc8010)
+- [Aditya Kumar](https://github.com/AS1100K)
 - [Akshat Baranwal](https://github.com/Akshatb2006)
 - [Habiba Ayman](https://github.com/habibayman)
 - [Hamees Sayed](https://github.com/hamees-sayed)
@@ -116,6 +117,7 @@ That's it. Your work could help someone get in next year.
   <a href="https://github.com/1brahimmohamed"><img src="https://github.com/1brahimmohamed.png" width="60px" alt="1brahimmohamed" /></a>
   <a href="https://github.com/abirc8010"><img src="https://github.com/abirc8010.png" width="60px" alt="abirc8010" /></a>
   <a href="https://github.com/Akshatb2006"><img src="https://github.com/Akshatb2006.png" width="60px" alt="Akshatb2006" /></a>
+  <a href="https://github.com/AS1100K"><img src="https://github.com/AS1100K.png" width="60px" alt="AS1100K" /></a>
   <a href="https://github.com/FallenDeity"><img src="https://github.com/FallenDeity.png" width="60px" alt="FallenDeity" /></a>
   <a href="https://github.com/habibayman"><img src="https://github.com/habibayman.png" width="60px" alt="habibayman" /></a>
   <a href="https://github.com/hamees-sayed"><img src="https://github.com/hamees-sayed.png" width="60px" alt="hamees-sayed" /></a>
