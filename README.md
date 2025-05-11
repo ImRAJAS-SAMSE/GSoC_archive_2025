@@ -13,9 +13,13 @@ This is a community archive of accepted GSoC 2025 proposals. It exists to help f
 
 If your proposal was accepted, submit it here to help others like you.
 
+The inspiration for this repo came from [aritra8438/GSoC_archive](https://github.com/aritra8438/GSoC_archive/); you can access proposals from 2024 and earlier years here.
+
+For more 2025 accepted proposals from 100xDevs, check out this blog post: [100xdevs blog post](https://blog.100xdevs.com/GSoC-Proposals-1ef7dfd1073580de9830ea9d774f9c7f)
+
 # Proposal Count
 
-Total proposals submitted: **18**
+Total proposals submitted: **19**
 
 ## Contributing a Proposal
 
@@ -82,6 +86,7 @@ That's it. Your work could help someone get in next year.
 - [x] The JPF team
 - [x] The Julia Language
 - [x] drupal
+- [x] kornia
 - [x] omegaUp
 - [x] sympy
 
