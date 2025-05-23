@@ -103,7 +103,7 @@ That's it. Your work could help someone get in next year.
 - [iqbal](https://github.com/iqbalcodes6602)
 - [Kapil Sareen](https://github.com/KapilSareen)
 - [Krishnav Bajoria](https://github.com/krishnavbajoria02)
-- [M V.](https://github.com/myanvoos)
+- [Myan V.](https://github.com/myanvoos)
 - [Rajas Samse](https://github.com/ImRAJAS-SAMSE)
 - [Rehan Chalana](https://github.com/RehanChalana)
 - [Ritesh Kumar Singh](https://github.com/riteshdavv)
